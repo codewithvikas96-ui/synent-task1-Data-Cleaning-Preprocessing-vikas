@@ -162,6 +162,16 @@ fig.suptitle("Titanic EDA - Summary Dashboard", fontsize=16, fontweight='bold')
 ## 📸 Screenshots 
 
 ![Age Distribution](images/age_distribution.png)
+![Age Distribution Survival vs Non](images/age_dist_survival_vs_non.png)
+![pclass survival rate](images/class_pie.png)
+![correlation_matrix](images/correlation_matrix.png)
+![Relation between age,fare,pclass](images/relation_between_age_fare_pclass.png)
+![Survival across pclass](images/survival_across_passenger.png)
+![Survival By Embark Town](images/survival_by_embark_town.png)
+![Survival Rate By Family Size](images/survival_rate_by_family_size.png)
+![Survival By Sex Count](images/survival_sex_count.png)
+![Summary Dashboard](images/summary_dashboard.png)
+
 
 
 ---
