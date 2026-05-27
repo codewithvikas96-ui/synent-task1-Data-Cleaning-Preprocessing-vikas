@@ -161,7 +161,7 @@ fig.suptitle("Titanic EDA - Summary Dashboard", fontsize=16, fontweight='bold')
 
 ## 📸 Screenshots 
 
-![Age Distribution](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Age Distribution](images/age_distribution.png)
 
 
 ---
