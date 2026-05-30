@@ -27,7 +27,7 @@ The goal is to follow a complete **Data Science workflow**:
 ## 📂 Repository Structure
 
 ```
-synent-task1-Data-Cleaning-Preprocessing-vikas/
+titanic-Data-Cleaning-Preprocessing/
 │
 ├── data_cleaning_and_preprocessing.ipynb   # Data Cleaning
 ├── EDA_titanic.ipynb                       # EDA + Visualization
