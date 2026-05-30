@@ -208,4 +208,4 @@ fig.suptitle("Titanic EDA - Summary Dashboard", fontsize=16, fontweight='bold')
 ## 👤 Author
 
 **Vikas** — Gravity Gaming 96  
-Data Science Internship Project · 2025
+Data Science Project · 2026
